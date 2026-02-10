@@ -1,3 +1,4 @@
+USED as haoshiyou.org official cite between 2023-2026.2. DEPRECATED 2026-02-09. See https://github.com/haoshiyou/haoshiyou-2026 for latest version
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
